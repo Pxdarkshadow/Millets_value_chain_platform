@@ -1,12 +1,12 @@
 # Millets Value Chain Platform
 
-*Background*\n
+*Background*<br>
 Millets, recognized as ""Shree Anna,"" play a vital role in ensuring nutritional security, climate resilience, and livelihood opportunities for smallholder farmers. Despite their immense potential, the millet value chain in India faces several bottlenecks including limited market access, lack of visibility for small-scale producers, weak integration between stakeholders, and inadequate consumer awareness. Farmers and Self-Help Groups (SHGs) often struggle to access fair markets, while startups and processors find it difficult to source quality produce directly. On the other side, consumers have limited platforms to explore and purchase diverse millet-based products.
 
-*Detailed Description*\n
+*Detailed Description*<br>
 There is a pressing need for a digital platform that bridges these gaps by integrating all key stakeholders of the millet and pulses value chain. The proposed solution should create a digital marketplace that enables farmers, Farmer Producer Organizations (FPOs), SHGS, startups, processors, and consumers to interact on a common platform. Such a system should provide functionalities for online trading, e-commerce integration, quality certification, traceability of produce, logistics support, and payment facilitation. The platform should also promote millet-based value-added products, nutritional awareness, and branding initiatives. Additionally, it should be multilingual, user-friendly, and accessible even in rural areas with limited internet connectivity.
 
-*Expected Solution*\n
+*Expected Solution*<br>
 The expected solution is a robust, scalable, and secure digital marketplace platform for millets. It should:
 Link farmers and SHGs directly with buyers, processors, and consumers, ensuring fair pricing.
 Facilitate value chain integration including procurement, quality assurance, logistics, and payment gateways.
