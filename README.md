@@ -85,5 +85,3 @@ This project is licensed under the MIT License — see the `LICENSE` file for de
 
 Created by **Shaun (Pxdarkshadow)**
 Feel free to reach out at [your [shaunmat13@gmail.com](mailto:shaunmat13@gmail.com)] for questions or collaboration.
-
-```
