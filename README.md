@@ -25,12 +25,11 @@
 
 ## Architecture & Tech Stack
 
-- **Backend**: [Insert backend framework/language, e.g., Django 5.1, Node.js/Express, etc.]  
-- **Database**: [e.g., PostgreSQL, MySQL, SQLite]  
-- **Frontend**: [React / Angular / Vue / plain HTML/CSS/JS]  
+- **Backend**: Node.js/Express 
+- **Database**: PostgreSQL 
+- **Frontend**: React, plain HTML/CSS/JS
 - **APIs**: RESTful endpoints for data operations and synchronisation.  
-- **Hosting / Deployment**: [Heroku, AWS, Azure, DigitalOcean etc.]  
-- **Other Tools**: [Kafka for streaming (if used), Docker, etc.]
+- **Hosting / Deployment**: Vite
 
 ## Installation
 
