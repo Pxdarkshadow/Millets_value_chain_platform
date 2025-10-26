@@ -55,12 +55,6 @@ npm start
 * Open `*anyfile*.json` (or equivalent) to update database connection settings, third-party API keys, etc.
 * Set environment variables for production:
 
-  ```bash
-  export DJANGO_SECRET_KEY='your-secret-here'
-  export DEBUG=False
-  ```
-* If using Docker, edit `docker-compose.yml` to match your preferred ports and volume mounts.
-
 ## Contributing
 
 Contributions are welcome! Here’s how you can help:
