@@ -39,22 +39,12 @@
 # Clone the repository
 git clone https://github.com/Pxdarkshadow/Millets_value_chain_platform.git
 cd Millets_value_chain_platform
-
-# [If backend uses Python/Django]
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py createsuperuser   # (optional, for admin access)
-python manage.py runserver
-
-# [If frontend is separate]
-cd frontend
-npm install
 npm start
 ````
 
 ## Usage
 
-* Visit `http://localhost:8000` (or whatever your local URL) in your browser.
+* Visit `http://localhost:3000` (or whatever your local URL) in your browser.
 * Login with your admin credentials (or create new user accounts).
 * Add stakeholder profiles (farmers, processors, etc.).
 * Start recording input and output data, track produce, view dashboards.
@@ -62,7 +52,7 @@ npm start
 
 ## Configuration
 
-* Open `settings.py` (or equivalent) to update database connection settings, third-party API keys, etc.
+* Open `*anyfile*.json` (or equivalent) to update database connection settings, third-party API keys, etc.
 * Set environment variables for production:
 
   ```bash
